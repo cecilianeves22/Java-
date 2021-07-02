@@ -1,7 +1,7 @@
 /* 6. Faça um programa em Java que leia 10 números informados pelo usuário e ao final da leitura escrever 
 a soma total dos 10 números lidos. */
 
-import java.util. *;
+import java.util.*;
 public class Exercise6 {
 public static void main (String [] args) {  
 Scanner sc = new Scanner (System.in);
